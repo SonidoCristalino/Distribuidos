@@ -1,0 +1,8 @@
+module calculadora {
+	interface calculo {
+	long suma (in long a, in long  b);
+        long resta (in long  a, in long  b);
+        long multiplicacion (in long  a, in long b);
+        double division (in long  a, in long  b);
+	};
+};

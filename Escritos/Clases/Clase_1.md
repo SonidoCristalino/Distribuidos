@@ -2,7 +2,6 @@
 # Profesor:
 	Eduardo Kunitkz ( o algo así )
 
-
 Todo está en la clase 0:
     Tanenbaum "Sistemas Distribuidos"
     Distributed System, Colorius
